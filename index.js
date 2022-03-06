@@ -25,15 +25,20 @@
 
 // update role
 
+// *bonus*
 // update manager
 
+// *bonus*
 // delete employee
 
+// *bonus*
 // delete department
 
+// *bonus*
 // delete role
 
-
+// *bonus*
 // view employee by department
 
+// *bonus*
 // view aggregate budget by department
