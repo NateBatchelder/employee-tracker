@@ -29,3 +29,16 @@ Acceptance Requirements
 - [x] WHEN I choose to update an employee role
 - [x] THEN I am prompted to select an employee to update and their new role and this information is updated in the database
 ```
+
+
+
+- [ ] clone repository from GitHub
+```git clone ```
+- [ ] install node.js
+```npm install init -y```
+- [ ] install express.js MySQL2
+```npm install express mysql2```
+- [ ] install inquirer
+```npm install inquirer```
+- [ ] install console.table
+```npm install console.table```
