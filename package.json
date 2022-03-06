@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "express": "^4.17.3",
+    "init": "^0.1.2",
+    "inquirer": "^8.2.0",
+    "mysql2": "^2.3.3"
+  },
+  "name": "employee-tracker",
+  "description": "Module 12",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NateBatchelder/employee-tracker.git"
+  },
+  "author": "Nate Batchelder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NateBatchelder/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/NateBatchelder/employee-tracker#readme"
+}
